@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellApp1", "..\..\BackUp\28th feb7am\ExcellApp1\ExcellApp1.csproj", "{1971A3DB-D411-464F-8DFD-63052F89DAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1971A3DB-D411-464F-8DFD-63052F89DAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1971A3DB-D411-464F-8DFD-63052F89DAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1971A3DB-D411-464F-8DFD-63052F89DAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1971A3DB-D411-464F-8DFD-63052F89DAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C785BE-C0B6-4634-B24F-6E6609308B5E}
+	EndGlobalSection
+EndGlobal
